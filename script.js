@@ -17,7 +17,7 @@ else if (planNumber == 3) {
 return domElement = domElement.classList.add("plan--selected")
 }
 }
-console.log(selectPlan(1))
-console.log(selectPlan(2))
+// console.log(selectPlan(1))
+// console.log(selectPlan(2))
 console.log(selectPlan(3))
 
